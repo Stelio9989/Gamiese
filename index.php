@@ -1,22 +1,7 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-
-    <!-- 1 -->
-    <link href="dropzone.css" type="text/css" rel="stylesheet"/>
-
-    <!-- 2 -->
-    <script src="dropzone.js"></script>
-
-</head>
-
-<body>
-
-<!-- 3 -->
-<form action="upload.php" class="dropzone"></form>
-
-</body>
-
-
-</html>
+<?php
+/**
+ * Created by PhpStorm.
+ * User: ChRiZ
+ * Date: 28.12.2015
+ * Time: 23:12
+ */
