@@ -4,10 +4,10 @@
 <head>
 
     <!-- 1 -->
-    <link href="css/dropzone.css" type="text/css" rel="stylesheet" />
+    <link href="dropzone.css" type="text/css" rel="stylesheet"/>
 
     <!-- 2 -->
-    <script src="dropzone.min.js"></script>>
+    <script src="dropzone.js"></script>
 
 </head>
 
